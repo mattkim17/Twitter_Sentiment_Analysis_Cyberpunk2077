@@ -1,5 +1,10 @@
 # Twitter_Sentiment_Analysis_Cyberpunk2077
 
+
+<p align="center">
+  <img width="460" height="300" src="cyberpunk2077logo.jpg">
+</p>
+
 On December 10th, Cyberpunk2077 was released after around 9 years after garnering overwhelming hype and support. However, the release was met with harsh criticism from gaming journalists and gamers alike for its buggy and almost unplayable state for console users. On Reddit and major gaming review websites, Cyberpunk2077 continued to recieve complaints and negative press to the point that CD Projekt Red (studio of Cyberpunk2077) was issuing refunds for the game. In this project, I wanted to see if reputation of the game was as poor as what was being reflected in mainstream media. To get a clearer image of the games reputation, I did a sentiment analysis on the tweets related to Cyberpunk2077 five days before and after release. Did these negative, vocal opinions represent the majority or were most gamers silently enjoying the game despite the negative reviews? 
 
 
