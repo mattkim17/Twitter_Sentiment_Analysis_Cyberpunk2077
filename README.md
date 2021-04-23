@@ -13,7 +13,7 @@ On December 10th, Cyberpunk2077 was released around 9 years after garnering over
 - Vader Sentiment 
 
 ## Key Takeaways + Conclusion 
-Cyberpunk2077, as of now, is still receiving positive feedback and the general populace is enjoying the game. Even with the constant negative press that the game got, majority of people are have positive experiences with the game. Cyberpunk2077 did not crash and burn, as some people expected and there could be a number of reasons why the game is performing well despite the controversies: 
+Cyberpunk2077, as of now, is still receiving positive feedback and the general populace is enjoying the game. Even with the constant negative press that the game got, majority of people are having positive experiences with the game. Cyberpunk2077 did not crash and burn, as some people expected and there could be a number of reasons why the game is performing well despite the controversies: 
 
 1. The number of pre-orders were in the millions (est. 8 million copies from pre-orders alone) --> could have boosted positive sentiment as there is a large group of dedicated fans 
 
